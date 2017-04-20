@@ -1,7 +1,7 @@
-banner-1.3.3-1.el6.x86_64.rpm  - пишет большие буквы 
-ccze-0.2.1-6.el6.x86_64.rpm  - выводит логи в красивом цветном тексте
-#tail /var/log/sylog.log | ccze -A
-ncdu-1.12-2.el6.x86_64.rpm  - програмка для анализа занятости файлов на жестком диске 
+* banner-1.3.3-1.el6.x86_64.rpm  - пишет большие буквы 
+* ccze-0.2.1-6.el6.x86_64.rpm  - выводит логи в красивом цветном тексте
+* #tail /var/log/sylog.log | ccze -A
+* ncdu-1.12-2.el6.x86_64.rpm  - програмка для анализа занятости файлов на жестком диске 
 
 http://ashep.org/2010/prosmotr-logov-s-pomoshhyu-multitail/#.WPjTqaIlGHs  - MultiTail - утилита для просмотра логов.
 
