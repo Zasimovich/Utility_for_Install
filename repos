@@ -75,5 +75,6 @@ baseurl=http://pkg.jenkins.io/redhat
 gpgcheck=1
 
 # for install rpm repo do -> #yum install -y http://.....\<repo_name>.rpm
+#info from - https://serveradmin.ru/ustanovka-repozitoriya-epel-rpmforge-v-centos/
 #rpmforge repo for install stay here - http://repoforge.org/use/ - visit for install
 #remi repo - http://rpms.remirepo.net/enterprise/
