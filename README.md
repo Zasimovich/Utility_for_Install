@@ -2,7 +2,7 @@ banner-1.3.3-1.el6.x86_64.rpm  - пишет большие буквы \n
 ccze-0.2.1-6.el6.x86_64.rpm  - выводит логи в красивом цветном тексте \n
 ncdu-1.12-2.el6.x86_64.rpm  - програмка для анализа занятости файлов на жестком диске \n
 
-
+http://ashep.org/2010/prosmotr-logov-s-pomoshhyu-multitail/#.WPjTqaIlGHs  - MultiTail - утилита для просмотра логов.
 
 # Vagrant AWS Provider
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/mitchellh/vagrant-aws?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
